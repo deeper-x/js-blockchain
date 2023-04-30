@@ -23,7 +23,7 @@
   "dependencies": {
     "@types/node": "^10.12.18",
     "@types/sha256": "^0.2.0",
-    "nodemon": "^1.18.9",
+    "nodemon": "^2.0.22",
     "sha256": "^0.2.0",
     "ts-node": "^7.0.1",
     "tslint": "^5.12.1",
